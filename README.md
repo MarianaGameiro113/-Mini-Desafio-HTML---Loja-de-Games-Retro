@@ -39,4 +39,8 @@ Infanto-Games/
 
 ## 🎯 Objetivo do desafio
 
-Demonstrar conhecimentos básicos de **HTML**, inclui
+Demonstrar conhecimentos básicos de **HTML**, incluindo títulos, parágrafos, listas, links, imagens e tabelas, mantendo o código simples e com menos de 50 linhas.
+
+---
+
+🎮 **Infanto Games — Reviva os melhores momentos dos games clássicos!**
